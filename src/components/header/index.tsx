@@ -1,4 +1,3 @@
-import React from 'react'
 import {Cointaner} from './styles'
 import NavigationMenuDemo from './profile';
 
